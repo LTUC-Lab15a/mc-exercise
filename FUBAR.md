@@ -1,4 +1,7 @@
 # mc-exercise
+<<<<<<< HEAD
+## This is what Basel & Tasneem did on Tasneem’s computer when working on the first feature
+=======
 
 <p>This is what Basel & Tasneem did on Basel’s computer when working on the first feature<p>
 
@@ -19,4 +22,5 @@
 
 
 
+>>>>>>> main
 
